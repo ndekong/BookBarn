@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">BookBarn</string>
     <string name="www_barnbooks_com">www.barnbooks.com</string>
-    <string name="username">User Name</string>
+    <string name="username">Username</string>
     <string name="login">Login</string>
     <string name="forgot_password">forgot password</string>
     <string name="sign_up">sign up</string>
